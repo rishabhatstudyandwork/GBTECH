@@ -34,4 +34,5 @@ This is a fully responsive landing page built for **Glitchbusters Technologies P
 
 ---
 
-© 2025 Glitchbusters Technologies Pvt Ltd — All rights reserved.
+© All rights reserved.
+
